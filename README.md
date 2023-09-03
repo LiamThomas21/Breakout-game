@@ -13,3 +13,6 @@ Project Specifications:
 - Add collision detection
 - Keep score
 - Add rules button with slider
+
+https://github.com/LiamThomas21/Breakout-game/blob/master/preview.mp4
+
