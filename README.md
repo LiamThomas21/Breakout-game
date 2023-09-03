@@ -14,5 +14,5 @@ Project Specifications:
 - Keep score
 - Add rules button with slider
 
-https://github.com/LiamThomas21/Breakout-game/blob/master/preview.mp4
+https://github.com/LiamThomas21/Breakout-game/assets/123399807/506376cc-70ab-417b-bf99-2dcf489d8d31
 
